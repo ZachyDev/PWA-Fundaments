@@ -1,0 +1,22 @@
+{
+    "name": "codewithzachy",
+    "short_name": "codewithzachy",
+    "start_url": "/",
+    "background_color": "#3498DB",
+    "theme_color": "#344955E",
+    "orientantion": "portrait-primary",
+    "display": "standalone",
+    "icons": [{
+        "src": "",
+        "type": "images/png",
+        "size": "192192"
+    }],
+    "dir": "ltr",
+    "lang": "en-US",
+    "description": "This is my portofolio site",
+    "scope": "/",
+    "serviceworker" : {
+        "src": "/path/",
+        "scope": "/"
+    }
+}
